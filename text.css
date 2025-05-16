@@ -1,0 +1,32 @@
+
+.orange{
+    margin-left: 50px;
+    width: 200px;
+    height: 40px;
+    background-color: orangered;
+}
+#white{
+    margin-left: 50px;
+    width: 200px;
+    height: 40px;
+    background-color: rgb(251, 233, 233);
+}
+.b{
+    width: 40px;
+    height: 40px;
+    margin-left: 80px;
+    border-radius: 30px;
+    background-color: blue;
+}
+.green{
+    margin-left: 50px;
+    width: 200px;
+    height: 40px;
+    background-color: rgb(1, 107, 17);
+}
+.black{
+    width: 10px;
+    height: 80px;
+    margin-left: 50px;
+    background-color: black;
+}
